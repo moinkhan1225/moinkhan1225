@@ -13,7 +13,7 @@ I'm a passionate **frontend developer** building responsive, interactive web app
 ---
 
 ## 🛠️ Skills
-| Frontend | Backend | Web3 / Blockchain | MongoDB |
+| Frontend | Backend | Web3 / Blockchain |
 |----------|--------|-----------------|
 | Next.js / React | Node.js | Ethers.js / Web3.js |
 | Tailwind CSS | MongoDB | MegaETH RPC |
